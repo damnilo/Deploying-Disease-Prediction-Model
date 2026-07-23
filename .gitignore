@@ -1,3 +1,6 @@
 app/*.joblib
 app/model.pt
 Dataset/
+__pycache__/
+app/__pycache__/
+.idea/
