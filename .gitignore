@@ -1,0 +1,2 @@
+app/*.joblib
+app/model.pt
